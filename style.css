@@ -972,3 +972,420 @@ body{
     color: rgb(201, 198, 198);
 }
 }
+
+@media(min-width: 981px){
+    .nav ul li a{
+    text-decoration: none;
+    color: rgb(119, 118, 118);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+    .nav ul li a:Hover{
+        color: orangered;
+        text-decoration: underline;
+    }
+    .logo-img{
+        margin-top: 20px;
+    }
+    .get-started{
+    font-size: 13px;
+    padding-left: 22px;
+    padding-right: 22px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    color: white;
+    background-color: orangered;
+    border: none;
+    border-radius: 20px;
+    font-size: 12px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.get-started:hover{
+    background-color: orange;
+    color: white;
+}
+.img-2{
+    display: none;
+}
+.img-1 img{
+    width: 80%;
+}
+.section-1{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 12px 0px;
+    align-items: center;
+}
+.text{
+    padding-left: 80px;
+    padding-right: 20px;
+}
+.bring{
+    font-size: 55px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.manage{
+    font-size: 21px;
+    color: rgb(151, 149, 149);
+    margin-top: 15px;
+    line-height: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.get-started2{
+    padding-left: 29px;
+    padding-right: 29px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    color: white;
+    background-color: orangered;
+    border: none;
+    border-radius: 60px;
+    font-size: 18px;
+    margin-top: 25px;
+    margin-bottom: 90px;
+    cursor: pointer;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.get-started2:hover{
+    background-color: orange;
+    color: white;
+}
+.section-2{
+    display: flex;
+    justify-content: space-between;
+    padding: 1px 129px;
+}
+.what{
+    font-size: 42px;
+}
+.section-2{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 60px;
+    padding: 12px 150px;
+}
+.manage-2{
+    font-size: 19px;
+    color: rgb(151, 149, 149);
+    margin-top: 20px;
+    line-height: 28px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.track{
+    display: flex;
+    gap: 20px;
+}
+.advanced{
+    display: flex;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    gap: 20px;
+}
+.everything{
+    display: flex;
+    gap: 20px;
+}
+.track-11{
+    display: none;
+}
+.text-122 h2{
+    font-size: 19px;
+    margin-bottom: 14px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.text-122 p{
+    font-size: 17px;
+    color: rgb(151, 149, 149);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.o-one {
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    background-color: orangered;
+    border-radius: 50px;
+    padding-left: 19px;
+    padding-right: 19px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.o-two {
+    border: solid orangered 2px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    background-color: orangered;
+    border-radius: 50px;
+    padding-left: 19px;
+    padding-right: 19px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.o-three {
+    border: solid orangered 2px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    background-color: orangered;
+    border-radius: 50px;
+    padding-left: 19px;
+    padding-right: 19px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.firist{
+    display: none;
+}
+.img{
+    display: none;
+}
+.name{
+    display: none;
+}
+.info{
+    display: none;
+}
+.sayed{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 20px;
+    margin-bottom: 50px
+}
+.first{
+    display: none;
+}
+.testimony{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.img-person {
+    display: flex;
+    justify-content: center;
+}
+.testimony img{
+    width: 22%;
+}
+.ali-img{
+    display: flex;
+    justify-content: center;
+}
+.second img{
+    display: block;
+}
+.third img{
+    display: block;
+}
+.txt-1{
+    background-color: whitesmoke;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: -30px;
+}
+.txt-2{
+    background-color: whitesmoke;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: -30px;
+}
+.txt-3{
+    background-color: whitesmoke;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: -30px;
+}
+.anisha{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 10px;
+}
+.super{
+    text-align: center;
+    font-size: 17px;
+    line-height: 24px;
+    color: rgb(151, 149, 149);
+    margin-top: 30px;
+}
+.get-started3{
+    font-size: 17px;
+    padding-left: 33px;
+    padding-right: 33px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    color: white;
+    background-color: orangered;
+    border: none;
+    border-radius: 40px;
+    margin-top: 30px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    cursor: pointer;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 50px;
+}
+.get-started3:hover{
+    background-color: orange;
+    color: white;
+}
+.get-started4:Hover{
+    background-color: orange;
+    color: white;
+}
+
+.section-4{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    padding: 12px 80px;
+    background-color: orangered;
+    padding-top: 55px;
+    padding-bottom: 55px;
+}
+
+.simplify{
+    font-size: 28px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+.get-started4{
+    font-size: 13px;
+    padding-left: 28px;
+    padding-right: 28px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    color: orangered;
+    background-color: white;
+    border: none;
+    border-radius: 26px;
+    font-size: 19px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 38px;
+    cursor: pointer;
+}
+.fourth-4{
+    display: none;
+}
+.firist-112{
+    display: none;
+}
+.section-5{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(1, 1, 15, 0.884);
+    padding-top: 50px;
+    padding-bottom: 15px;
+    padding-left: 77px;
+    padding-right: 76px;
+}
+.logo-2{
+    margin-bottom: 60px;
+    filter: invert(100%);
+}
+.fourth-44{
+    display: flex;
+    
+}
+.media-img img{
+    padding: 5px 10px;
+    cursor: pointer;
+    width: 30px;
+}
+.footer-links{
+    display: flex;
+    gap: 30px;
+}
+.second-22 li{
+    padding: 15px 1px;
+    font-size: 19px;
+    list-style: none;
+}
+.second-22 li a{
+    color: rgb(201, 198, 198);
+    text-decoration: none;
+    
+}
+.third-3 li a{
+    color: rgb(201, 198, 198);
+    text-decoration: none;
+}
+
+.third-3 li{
+    padding: 15px 1px;
+    font-size: 19px;
+    list-style: none;
+}
+.fourth-44{
+    margin-top: 50px;
+}
+.firist-11{
+    margin-top: 50px;
+}
+.input-212{
+    padding-top: 11px;
+    padding-bottom: 11px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 23px;
+}
+.submit-go{
+    font-size: 13px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    color: white;
+    background-color: orangered;
+    border: none;
+    border-radius: 26px;
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 3px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+.submit-go:hover{
+    background-color: white;
+    color: orangered;
+}
+.face:hover{
+    background-color: orangered;
+}
+.you:hover{
+    background-color: orangered;
+}
+.twitt:hover{
+    background-color: orangered;
+}
+.pin:hover{
+    background-color: orangered;
+}
+.insta:hover{
+    background-color: orangered;
+}
+.right{
+    text-align: end;
+    margin-top: -100px;
+    margin-right: 90px;
+    font-size: 15px;
+    color: rgb(201, 198, 198);
+}
+.third-3 a:hover{
+    color: orangered;
+}
+.second-22 a:hover{
+    color: orangered;
+}
+}
